@@ -8,7 +8,7 @@ pipeline {
         }
         stage('Compile') {
             steps {
-                echo 'Compile the source code' 
+                echo 'supp this is ritiksha' 
             }
         }
         stage('Security Check') {
